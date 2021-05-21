@@ -129,10 +129,10 @@ symbols_count_time:
 deploy:
   type: git
   repo: git@github.com:sulfurandcu/sulfurandcu.github.io.git
-  branch: master
+  branch: main
 ## - type: git
 ##   repo: git@github.com:sulfurandcu/sulfurandcu.github.io.git
-##   branch: master
+##   branch: main
 ## - type: baidu_url_submitter
 
 prismjs:
